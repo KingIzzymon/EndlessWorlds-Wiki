@@ -8,6 +8,10 @@
 
 The Endless Worlds are a universe of stories written by the author [Seth Ring](https://sethring.com/about-seth-ring/) that span across several different series, all with their own unique characters and timeline.
 
+## Tags
+
+#character, #novaterra, #race, #world
+
 ## How to use the wiki
 
 This wiki is designed to use a flat file system where each topic resides within its own file and can be found using the tagging system or referencing the other files directly within the repository. If needed, please click "Preview" on the upper left corner of the file to see it with proper text formatting.

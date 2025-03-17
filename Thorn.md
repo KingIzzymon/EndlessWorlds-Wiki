@@ -1,4 +1,4 @@
-Tags: #character
+Tags: #character, #novaterra
 ---
 # Thorn (Xavier Lee)
 
@@ -28,6 +28,29 @@ In addition to this constant in-and-out of hospitals, Xavier occupied himself wi
 - Titan (Book #8): "Nova Terra: Stone King"
 - Titan (Book #9): "Nova Terra: Catalyst"
 - Titan (Book #10): "Nova Terra: Worldbearer"
+
+## Physical Description
+
+- Race: Human/Titan
+- Gender: Male
+- Height: 8' 9"
+- Weight: 800lbs
+- Eye color: Brown
+
+## Relatives
+
+- Wife: [Velin](Velin.md)
+- Maternal Aunt: [Athena (Julia Lee)](Athena.md)
+- Father: Kamag'tal/Philip
+- Mother: Zem'tal feg/Evelyn
+- Maternal Grandfather: Joseph McCallen
+- Paternal Grandfather: Urmag’Tal
+- Paternal Grandmother: Metra
+
+## Images
+
+![alt text](Thorn_1.png)
+(left to right) Real-world Xavier, Thorn upon entry to Nova Terra, Thorn upon purchasing armor, Thorn at end of Book 1
 
 ---
 ## Sources
