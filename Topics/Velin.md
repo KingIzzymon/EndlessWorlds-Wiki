@@ -1,4 +1,5 @@
 Tags: #character, #novaterra
+
 ---
 # Velin
 
@@ -10,7 +11,7 @@ Velin is cool and collected, not one to be thrown off or disheveled easily nor t
 
 Velin has been friends with Mina since elementary school, and they even went to college together, where she got a degree in information engineering. They played Nova Terra during these years, and after graduation she joined and was hired by Ragnarok as an analyst. Upon joining the guild she received her class, War Priestess, by the Holy Crimson Cardinal that was a part of Ragnarok. She was registered to Ragnarok's third team led by Ouroboros, along with Mina and Jorge.
 
-## Appearences
+## Appearances
 
 - Titan (Book #1): "Nova Terra: Titan"
 - Titan (Book #2): "Nova Terra: Greymane"

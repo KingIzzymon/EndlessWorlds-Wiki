@@ -1,4 +1,5 @@
 Tags: #character, #novaterra
+
 ---
 # Athena (Julia Lee)
 
@@ -12,7 +13,7 @@ Julia was only 19 when Xavier's parents died and she took on the responsibility 
 
 To relax, Julia spends her time in Nova Terra playing as Athena. Four real-world years prior to the events of Nova Terra: Titan, Athena was in a guild but left it due to the intolerable guild leader. Other women in that guild also quit and joined Athena in making her new guild, the Society of Roses (more popularly known as the War Roses). It is an all-women mercenary guild, focusing on hiring out its services to others in a myriad of ways, such as security for a caravan. Under Athena's leadership, the War Roses grew, and the guild is now consistently ranked within the top ten guilds of Nova Terra. Athena herself came to be known as the Queen of Roses.
 
-## Appearences
+## Appearances
 
 - Titan (Book #1): "Nova Terra: Titan"
 - Titan (Book #2): "Nova Terra: Greymane"

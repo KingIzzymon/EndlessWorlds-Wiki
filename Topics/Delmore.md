@@ -1,4 +1,5 @@
 Tags: #character, #novaterra
+
 ---
 # Delmore
 
@@ -6,7 +7,7 @@ Delmore is a tigerkin player with the Spirit Guide class. He is a professional p
 
 ## Backstory
 
-## Appearences
+## Appearances
 
 - Titan (Book #3): "Nova Terra: Kingbreaker"
 - ...

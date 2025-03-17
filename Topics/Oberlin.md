@@ -1,4 +1,5 @@
 Tags: #character, #novaterra
+
 ---
 # Oberlin Danihoff, III
 
@@ -12,7 +13,7 @@ Not much is known about the life of Oberlin Danihoff, III in the real world othe
 
 One day, a client came to Oberlin needing a box unlocked. Unfortunately for Oberlin, the box was cursed. He ended up having to pledge himself to the Ordo Serpentes, unaware of its true nature, in order to remove the curse. This pledge included the secretive order taking a portion of Oberlin's soul. While the tasks that the Ordo Serpentes gave to Oberlin started out relatively benign, they began to order him to retrieve military secrets as well as other sensitive information of the Human Empire. He was unwilling to take part in such tasks and tried to escape the order, but they used his soul to torment him with terrible nightmares.
 
-## Appearences
+## Appearances
 
 - Titan (Book #1): "Nova Terra: Titan"
 - Titan (Book #2): "Nova Terra: Greymane"

@@ -1,10 +1,11 @@
 Tags: #character
+
 ---
 # CharacterTemplateTitle
 
 ## Backstory
 
-## Appearences
+## Appearances
 
 ## Physical Description
 

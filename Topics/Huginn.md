@@ -1,4 +1,5 @@
 Tags: #character
+
 ---
 # Huginn
 
@@ -6,7 +7,7 @@ Avatar: [Corvo](Corvo.md)
 
 ## Backstory
 
-## Appearences
+## Appearances
 
 ## Physical Description
 

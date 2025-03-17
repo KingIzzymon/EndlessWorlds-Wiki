@@ -1,4 +1,5 @@
 Tags: #character, #novaterra
+
 ---
 # Angdrin (Calvin)
 
@@ -8,7 +9,7 @@ Angdrin, the in-game character of Calvin, is a Blood Mage and is widely regarded
 
 Angdrin is one of the leaders within the super guild Ragnarok and is competing for the position of guild master against his cousin Ouroboros and Sylith. He controls Ragnarok's affairs in the region of Berum and the surrounding areas. However, he is not the most skilled of leaders, and his position is mostly secure due to him being the nephew of a guild elder, Ouroboros's father.
 
-## Appearences
+## Appearances
 
 - Titan (Book #2): "Nova Terra: Greymane"
 - ...

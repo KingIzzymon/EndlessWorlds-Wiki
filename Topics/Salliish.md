@@ -1,4 +1,5 @@
 Tags: #character, #novaterra
+
 ---
 # Salliish
 
@@ -8,7 +9,7 @@ Salliish's avatar is [Josephine](Josephine.md).
 
 ## Backstory
 
-## Appearences
+## Appearances
 
 ## Physical Description
 

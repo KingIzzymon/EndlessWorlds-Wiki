@@ -1,4 +1,4 @@
-# EndlessWorlds-Wiki
+# Endless Worlds Wiki
 
 > **_DISCLAIMER:_** This is a fan made wiki and is not directly affiliated with Seth Ring. Please be aware that there are spoilers throughout this wiki and this disclaimer may not be posted on every page.
 
@@ -16,12 +16,16 @@ The Endless Worlds are a universe of stories written by the author [Seth Ring](h
 
 This wiki is designed to use a flat file system where each topic resides within its own file and can be found using the tagging system or referencing the other files directly within the repository. If needed, please click "Preview" on the upper left corner of the file to see it with proper text formatting.
 
+For easier use, this project can be cloned to a desktop and opened using the not taking application [Obsidian](https://obsidian.md/).
+
+> _**Note: **_ Disable "Use wiki links" and set new link to be relative to file path
+
 ## Contributing to the wiki
 
 All are welcome to contribute to the wiki using a pull request (PR), however, the project maintainers reserve the right to decline PRs.
 
 - Create a PR to start a new topic file or to edit a file.
-- Please keep the scope of a PR short in order to expidite the review and merging process
+- Please keep the scope of a PR short in order to expedite the review and merging process
 - The "Issues" section may be used to discuss any fan theories
 
 ## Author's Links

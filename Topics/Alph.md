@@ -1,10 +1,11 @@
 Tags: #character, novaterra
+
 ---
 # Alph
 
 ## Backstory
 
-## Appearences
+## Appearances
 
 - Mad Master Alchemist
 

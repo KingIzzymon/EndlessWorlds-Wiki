@@ -1,4 +1,5 @@
 Tags: #character, #novaterra
+
 ---
 # Jorge
 
@@ -10,7 +11,7 @@ A bit rough around the edges and competitive, Jorge enjoys having fun, sometimes
 
 Not much is known about Jorge's background, but he was a professional player registered to Ragnarok's third team, along with Velin and Mina, led by Ouroboros. In addition to the role he plays as a silent rogue, using his stealth to defeat enemies, he also acts as a scout for his guild.
 
-## Appearences
+## Appearances
 
 - Titan (Book #1): "Nova Terra: Titan"
 - Titan (Book #2): "Nova Terra: Greymane"

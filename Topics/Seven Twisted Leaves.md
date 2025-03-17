@@ -1,4 +1,5 @@
 Tags: #character, #novaterra
+
 ---
 # Seven Twisted Leaves
 
@@ -6,7 +7,7 @@ Seven Twisted Leaves is a fae character, looking like a human with tree bark for
 
 ## Backstory
 
-## Appearences
+## Appearances
 
 - Titan (Book #3): "Nova Terra: Kingbreaker"
 - ...

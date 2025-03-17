@@ -1,4 +1,5 @@
 Tags: #character, #novaterra
+
 ---
 # Mina
 
@@ -10,7 +11,7 @@ While normally bubbley and excited, talking as though always on a time-limit, sh
 
 Mina is good friends with Velin, whom she has known since elementary school. The two of them played Nova Terra throughout college, where she got a degree in communications. In Nova Terra, Mina was recognized for her superb combat abilities, and she and Velin joined Ragnarok after graduating. Mina acquired her Ice Witch class by completing a long quest, helped out by Ouroboros. She was registered to Ragnarok's third team led by Ouroboros, which also included Velin and Jorge, and trained extensively with them in order to become a truly formidable team. Mina grew to be one of the strongest PvP players in the game.
 
-## Appearences
+## Appearances
 
 - Titan (Book #1): "Nova Terra: Titan"
 - Titan (Book #2): "Nova Terra: Greymane"

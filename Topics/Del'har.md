@@ -1,4 +1,5 @@
 Tags: #character, #novaterra
+
 ---
 # Del'har
 
@@ -6,7 +7,7 @@ Captain Del'har is the captain of the First Company under Lord Greymane of Fang 
 
 ## Backstory
 
-## Appearences
+## Appearances
 
 ## Physical Description
 

@@ -1,12 +1,13 @@
 Tags: #character, #novaterra
+
 ---
 # Baldur
 
-Baldur is the god of light, characterized by truth and justice. The god's counterpart is Salliish, the god of shadow.
+Baldur is the god of light, characterized by truth and justice. The god's counterpart is [Salliish](Salliish.md), the god of shadow.
 
 ## Backstory
 
-## Appearences
+## Appearances
 
 ## Physical Description
 

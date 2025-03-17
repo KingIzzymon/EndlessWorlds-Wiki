@@ -1,4 +1,5 @@
 Tags: #character, #novaterra
+
 ---
 # Hati
 
@@ -6,7 +7,7 @@ Hati the Moon Wolf, also known as the Great Wolf, is the god of night and also c
 
 ## Backstory
 
-## Appearences
+## Appearances
 
 ## Physical Description
 

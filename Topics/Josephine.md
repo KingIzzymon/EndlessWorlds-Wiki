@@ -1,4 +1,5 @@
 Tags: #character, #novaterra
+
 ---
 # Josephine
 
@@ -6,7 +7,7 @@ Josephine has the Shadow Priest class, giving her strong offensive support spell
 
 ## Backstory
 
-## Appearences
+## Appearances
 
 - Titan (Book #2): "Nova Terra: Greymane"
 

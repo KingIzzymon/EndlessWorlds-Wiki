@@ -1,4 +1,5 @@
 Tags: #character, #novaterra
+
 ---
 # Baxby
 
@@ -6,7 +7,7 @@ Baxby is Drifter, an organization of loosely affiliated explorers hiring out the
 
 ## Backstory
 
-## Appearences
+## Appearances
 
 - Titan (Book #3): "Nova Terra: Kingbreaker"
 - ...

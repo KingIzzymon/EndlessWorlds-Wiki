@@ -1,4 +1,5 @@
 Tags: #character, #novaterra
+
 ---
 # EVE
 
@@ -6,7 +7,7 @@ EVE is the artificial intelligence who manages the virtual game world "[Nova Ter
 
 ## Backstory
 
-## Appearences
+## Appearances
 
 ## Physical Description
 

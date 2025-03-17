@@ -1,4 +1,5 @@
 Tags: #character, #novaterra
+
 ---
 # Thorn (Xavier Lee)
 
@@ -16,7 +17,7 @@ Since Xavier's disorder was identified early on, his life has consisted almost e
 
 In addition to this constant in-and-out of hospitals, Xavier occupied himself with study. At 16, he has finished primary and secondary school years ago and has even completed two degrees, one in Business Management and another in Urban Planning.
 
-## Appearences
+## Appearances
 
 - Titan (Book #1): "Nova Terra: Titan"
 - Titan (Book #2): "Nova Terra: Greymane"
@@ -28,6 +29,13 @@ In addition to this constant in-and-out of hospitals, Xavier occupied himself wi
 - Titan (Book #8): "Nova Terra: Stone King"
 - Titan (Book #9): "Nova Terra: Catalyst"
 - Titan (Book #10): "Nova Terra: Worldbearer"
+- Tower (Book #1): "Forge Master"
+- Tower (Book #2): "Reforged"
+- Tower (Book #3): "Arcanist"
+- Tower (Book #4): "Ignition"
+- Tower (Book #5): "Bloodline"
+- Tower (Book #6): "Avatar"
+- Tower (Book #7): "Challenger"
 
 ## Physical Description
 

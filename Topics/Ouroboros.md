@@ -1,4 +1,5 @@
 Tags: #character, #novaterra
+
 ---
 # Ouroboros (Peter)
 
@@ -10,7 +11,7 @@ Ouroboros is headstrong and committed, a practical person willing to do whatever
 
 Peter's father is one of the elders overseeing Ragnarok. Within the guild, Ouroboros quickly rises in strength and influence, and his father gives him more responsibilities, eventually leaving guild matters entirely in the hands of his son. He establishes Ragnarok's third team, led by himself and consisting of Velin, Mina, and Jorge. Under significant pressure from his father, Ouroboros has been competing with the other leaders within Ragnarok, his cousin Angdrin and Sylith, to become the guild master but is behind them in progress. To make up for this, he seeks a powerful class to gain an advantage.
 
-## Appearences
+## Appearances
 
 - Titan (Book #1): "Nova Terra: Titan"
 - Titan (Book #2): "Nova Terra: Greymane"
