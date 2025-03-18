@@ -1,4 +1,4 @@
-Tags: #character, novaterra
+Tags: #character, #novaterra
 
 ---
 # Alph
@@ -14,6 +14,8 @@ Tags: #character, novaterra
 ## Relatives
 
 ## Images
+
+![](../Resources/Attachments/BookCover_MadMasterAlchemist.png)
 
 ---
 ## Sources

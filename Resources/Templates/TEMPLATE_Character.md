@@ -1,4 +1,4 @@
-Tags: #character
+Tags: 
 
 ---
 # CharacterTemplateTitle

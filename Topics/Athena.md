@@ -27,7 +27,7 @@ To relax, Julia spends her time in Nova Terra playing as Athena. Four real-world
 ## Relatives
 
 - Sister: Evelyn Lee
-- Nephew: [Thorn (Xavior Lee)](Thorn.md)
+- Nephew: [Thorn (Xavier Lee)](Thorn.md)
 
 ## Images
 

@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "1fcbaee24d46cbf7",
+    "id": "2bf0bc71f1093619",
     "type": "split",
     "children": [
       {
-        "id": "883049bc5fde591a",
+        "id": "8a50046fe0bb7d41",
         "type": "tabs",
         "children": [
           {
-            "id": "f13f4243a595bdfa",
+            "id": "a39e1a2b1f61373d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0204be2a27382e28",
+    "id": "9b7862f2feba1546",
     "type": "split",
     "children": [
       {
-        "id": "a86e7e15fe78f612",
+        "id": "e404ca09efef2875",
         "type": "tabs",
         "children": [
           {
-            "id": "c107042174f584ac",
+            "id": "7e0425c5d57d2fef",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "7e619274e8ab3680",
+            "id": "8d09ce63d54389e0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "bf5db87fbfd1309f",
+            "id": "0697511ab7f82bab",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,18 +74,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "2222b673d85bdea2",
+    "id": "33bbf41e349e2a7e",
     "type": "split",
     "children": [
       {
-        "id": "df9a02173024fae2",
+        "id": "a8bc2c97bf83b3f5",
         "type": "tabs",
         "children": [
           {
-            "id": "5e8856ff3cb8c638",
+            "id": "3f74cb4f4979fe47",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +104,7 @@
             }
           },
           {
-            "id": "988e8d01289ef83f",
+            "id": "728364ab9bf2173c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +117,7 @@
             }
           },
           {
-            "id": "bd74b8991099923b",
+            "id": "af08a0eae3a6f98f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +132,7 @@
             }
           },
           {
-            "id": "b7f499125656532f",
+            "id": "4f99e8b731519d43",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -161,36 +162,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f13f4243a595bdfa",
+  "active": "a39e1a2b1f61373d",
   "lastOpenFiles": [
     "README.md",
-    "Topics/Velin.md",
-    "Topics/Thorn.md",
-    "Topics/Sylith.md",
-    "Topics/Seven Twisted Leaves.md",
-    "Topics/Series_Titan_Logo.png",
-    "Topics/Series_Titan.md",
+    "Resources/Attachments/README_notesgraph20250317.png",
+    "Topics/Sigvald.md",
+    "Topics/Ferdie.md",
     "Topics/Salliish.md",
-    "Topics/Races.md",
-    "Topics/Ouroboros.md",
-    "Topics/Oberlin.md",
-    "Topics/NovaTerra_Guilds.md",
-    "Topics/NovaTerra.md",
-    "Topics/Mina.md",
-    "Topics/Josephine.md",
-    "Topics/Jorge.md",
-    "Topics/Huginn.md",
-    "Topics/Hati.md",
-    "Topics/EVE.md",
+    "Resources/Templates/TEMPLATE_Character.md",
     "Topics/Endlessworlds_Timeline.md",
-    "Topics/Delmore.md",
-    "Topics/Del'har.md",
-    "Topics/Corvo.md",
-    "Topics/Baxby.md",
-    "Topics/Baldur.md",
-    "Topics/Athena.md",
-    "Topics/Angdrin.md",
-    "Topics/Akira_1.png",
-    "Topics/NovaTerra_Map.png"
+    "Topics/Merrick.md",
+    "Topics/Series_SoulCaller.md",
+    "Topics/Races.md",
+    "Resources/Attachments/Races_Exlian_Matron.png",
+    "Resources/Attachments/Races_Exlian_Terror.png",
+    "Resources/Attachments/Races_Exlian_Warrior.png",
+    "Resources/Attachments/Races_Exlian_Drone.png",
+    "Topics/Noah.md",
+    "Resources/Attachments/Noah_1.png",
+    "Topics/Mark.md",
+    "Topics/Mime.md",
+    "Resources/Attachments/Mime_1.png",
+    "Topics/Sky.md",
+    "Resources/Attachments/Sky_1.png",
+    "Topics/Joe.md",
+    "Resources/Attachments/Joe_1.png",
+    "Topics/Series_ExlianSyndrome.md",
+    "Resources/Attachments/Mark_1.png",
+    "Topics/Series_IronTyrant.md",
+    "Topics/Series_DreamersThrone.md",
+    "Topics/Series_BattleMageFarmer.md",
+    "Topics/Haver.md",
+    "Topics/JohnSutton.md",
+    "Topics/Ben.md",
+    "Topics/Ellie.md",
+    "Topics/Series_Tower.md",
+    "Topics/Series_Titan.md",
+    "Topics/Alph.md",
+    "Resources/Canvases",
+    "Resources/Attachments",
+    "Resources/Templates",
+    "Resources"
   ]
 }

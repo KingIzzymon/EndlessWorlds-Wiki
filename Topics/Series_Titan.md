@@ -1,11 +1,19 @@
-Tags: #series
+Tags: #series, #novaterra 
 
 ---
 # The Titan series (aka Nova Terra)
 
-![alt text](Series_Titan_Logo.png)
+![](../Resources/Attachments/Series_Titan_Logo.png)
+
+“This game is not like other games,” Thorn’s aunt warns him as the story begins.
+
+“It’s pretty much real life and it’s as dangerous.” But after years of failed medical treatments, Thorn will try just about anything—including an experimental procedure requiring him to spend two years in the virtual world of Nova Terra.
+
+While there, he’ll encounter enemies, ancient evil, and a forgotten god who sets Thorn on a crash course with some of the Nova Terra’s most powerful players.
 
 ## Book 1: Titan
+
+![](../Resources/Attachments/BookCover_Titan01_Titan.png)
 
 ### Released: December 3, 2018
 
@@ -15,6 +23,8 @@ The plot of Book 1 centers around introducing the main character Xavier/Thorn, h
 
 ## Book 2: Greymane
 
+![](../Resources/Attachments/BookCover_Titan02_Greymane.png)
+
 ### Released: April 1, 2019
 
 ### Plot
@@ -22,6 +32,8 @@ The plot of Book 1 centers around introducing the main character Xavier/Thorn, h
 The plot of book 2 centers around a single quest line that Thorn received during the events of book 1 related to the “Greymane” title. He also begins to build a team with some of the characters from the previous book and new characters he meets during the course of book 2. We follow Thorn as he begins to go head-to-head with some of the main players in the guild Ragnarok.
 
 ## Book 3: Kingbreaker
+
+![](../Resources/Attachments/BookCover_Titan03_Kingbreaker.png)
 
 ### Released: September 25, 2019
 
@@ -33,6 +45,8 @@ But Nova Terra is not as simple as it seemed and Thorn quickly discovers the pol
 
 ## Book 4: Guardian
 
+![](../Resources/Attachments/BookCover_Titan04_Guardian.png)
+
 ### Released: March 12, 2020
 
 ### Plot
@@ -42,6 +56,8 @@ His abilities sealed by a powerful curse, Thorn is racing against the clock to r
 Thorn might be the Greymane, but after the disastrous end of the last World Quest he is in no position to rule. Heading off with his friends to seek the cure to his curse, Thorn leaves Moon Wolf Citadel behind to search for the elusive World Tree. After arriving on the other side of Angoril, Thorn and his companions realize that all is not well on the Elven Isle and are forced to flee for their lives.
 
 ## Book 5: Liberator
+
+![](../Resources/Attachments/BookCover_Titan05_Liberator.png)
 
 ### Released: September 29, 2020
 
@@ -53,6 +69,8 @@ Thorn has freed himself from an ancient curse and cleared up the political turmo
 
 ## Book 6: Earthshaper
 
+![](../Resources/Attachments/BookCover_Titan06_Earthshaper.png)
+
 ### Released: March 9, 2021
 
 ### Plot
@@ -62,6 +80,8 @@ They say it isn’t about how many times you get knocked down. Barely surviving 
 The stakes have grown—and if Thorn is going to lead his friends through the danger of the looming Orc threat, he will need every advantage he can scrape together. Yet even as he forges a path forward shadows begin to stir.
 
 ## Book 7: Stormbringer
+
+![](../Resources/Attachments/BookCover_Titan07_Stormbringer.png)
 
 ### Released: July 23, 2021
 
@@ -73,6 +93,8 @@ Thorn falls deeper into the political struggles of the Empire when the capital i
 
 ## Book 8: Stone King
 
+![](../Resources/Attachments/BookCover_Titan08_StoneKing.png)
+
 ### Released: October 27, 2021
 
 ### Plot
@@ -83,6 +105,8 @@ Hunted by corrupted Devils, Thorn’s only option for making it out alive is tak
 
 ## Book 9: Catalyst
 
+![](../Resources/Attachments/BookCover_Titan09_Catalyst.png)
+
 ### Released: March 8, 2022
 
 ### Plot
@@ -92,6 +116,8 @@ Back from the Abyssal Lands, life is looking pretty good from where Thorn sits. 
 But not everyone is so satisfied with how the game is turning out, and when a cursed staff leads Mina to disclose some of her tumultuous past, the team decides to head north. With a small team of some of the best players in the game, Thorn is off on a fast paced adventure to solve a murderous mystery left untouched for two decades.
 
 ## Book 10: Worldbearer
+
+![](../Resources/Attachments/BookCover_Titan09_Worldbearer.png)
 
 ### Released: June 14, 2022
 
@@ -105,6 +131,8 @@ No sooner had Thorn stepped into his new role as Titan of Earth than the enemies
 ## Additional
 
 ## Mad Master Alchemist
+
+![](../Resources/Attachments/BookCover_MadMasterAlchemist.png)
 
 ### Released: April 25, 2023
 

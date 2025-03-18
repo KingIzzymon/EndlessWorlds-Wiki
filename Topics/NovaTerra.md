@@ -22,7 +22,7 @@ Nova Terra is an open world with a deep history and in which most of the lore is
 
 ## Images
 
-![alt text](NovaTerra_Map.png)
+![alt text](../Resources/Attachments/NovaTerra_Map.png)
 
 ---
 ## Sources

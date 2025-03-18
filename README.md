@@ -10,15 +10,17 @@ The Endless Worlds are a universe of stories written by the author [Seth Ring](h
 
 ## Tags
 
-#character, #novaterra, #race, #world
+#battlemagefarmer #character #dremersthrone #exliansyndrome #irontyrant #novaterra #race #soulcaller #thetower #world
 
 ## How to use the wiki
 
 This wiki is designed to use a flat file system where each topic resides within its own file and can be found using the tagging system or referencing the other files directly within the repository. If needed, please click "Preview" on the upper left corner of the file to see it with proper text formatting.
 
-For easier use, this project can be cloned to a desktop and opened using the not taking application [Obsidian](https://obsidian.md/).
+For easier use, this project can be cloned to a desktop and opened using the not taking application [Obsidian](https://obsidian.md/) which can display the notes and their links to other notes or tags in a dynamic graph.
 
-> _**Note: **_ Disable "Use wiki links" and set new link to be relative to file path
+![](Resources/Attachments/README_notesgraph20250317.png)
+
+> **_Note:_** Disable "Use wiki links" and set "New link format" to be relative to file path
 
 ## Contributing to the wiki
 
