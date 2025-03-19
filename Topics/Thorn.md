@@ -59,6 +59,7 @@ In addition to this constant in-and-out of hospitals, Xavier occupied himself wi
 ## Images
 
 ![](../Resources/Attachments/Thorn_1.png)
+
 (left to right) Real-world Xavier, Thorn upon entry to Nova Terra, Thorn upon purchasing armor, Thorn at end of Book 1
 
 ## Canvases
