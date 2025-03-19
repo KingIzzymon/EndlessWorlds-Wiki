@@ -14,6 +14,8 @@ The Endless Worlds are a universe of stories written by the author [Seth Ring](h
 
 This project can be cloned to a desktop and opened using the note taking application [Obsidian](https://obsidian.md/) which can display the notes and their links to other notes or tags in a dynamic graph. Simply download a copy of the project, unzip it to a folder, then open that folder as a vault from the Obsidian main window.
 
+![](Resources/Attachments/README_demo.gif)
+
 ![](Resources/Attachments/README_notesgraph20250317.png)
 
 > **_Note:_** Disable "Use wiki links" and set "New link format" to be relative to file path
