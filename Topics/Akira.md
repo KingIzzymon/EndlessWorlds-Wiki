@@ -23,7 +23,8 @@ Found under a log in Nova Terra, Akira joined Thorn's team via spirit contract a
 
 ## Images
 
-![image](../Resources/Attachments/Akira_1.png)
+![](../Resources/Attachments/Akira_1.png)
+
 (By https://www.instagram.com/laurenwalshart/)
 
 ---
