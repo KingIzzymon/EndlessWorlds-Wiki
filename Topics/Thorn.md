@@ -1,4 +1,4 @@
-Tags: #character, #novaterra
+Tags: #character #novaterra #tower 
 
 ---
 # Thorn (Xavier Lee)
@@ -44,21 +44,28 @@ In addition to this constant in-and-out of hospitals, Xavier occupied himself wi
 - Height: 8' 9"
 - Weight: 800lbs
 - Eye color: Brown
+- Domain: Improvement (with a focus on ancient runes)
 
 ## Relatives
 
 - Wife: [Velin](Velin.md)
-- Maternal Aunt: [Athena (Julia Lee)](Athena.md)
-- Father: Kamag'tal/Philip
-- Mother: Zem'tal feg/Evelyn
-- Maternal Grandfather: Joseph McCallen
-- Paternal Grandfather: Urmag’Tal
-- Paternal Grandmother: Metra
+- Maternal Aunt: [Athena](Athena.md)
+- Father: [Kamag'tal](Kamag'tal.md)
+- Mother: [Zem'tal feg](Zem'tal_feg.md)
+- Maternal Grandfather: [Joseph McCallen](JosephMcCallen.md)
+- Paternal Grandfather: [Urmag’Tal](Urmag’Tal.md)
+- Paternal Grandmother: [Metra](Metra.md)
 
 ## Images
 
-![alt text](../Resources/Attachments/Thorn_1.png)
+![](../Resources/Attachments/Thorn_1.png)
 (left to right) Real-world Xavier, Thorn upon entry to Nova Terra, Thorn upon purchasing armor, Thorn at end of Book 1
+
+## Canvases
+
+![](../Resources/Canvases/TitanLineage.canvas)
+
+![](../Resources/Canvases/ThornsFamilyTree.canvas)
 
 ---
 ## Sources

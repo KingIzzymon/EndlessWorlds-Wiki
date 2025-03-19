@@ -13,7 +13,7 @@ Mark's pet cat
 
 ## Relatives
 
-- Owner: [Mark](Mark.md)
+- Owner: [MarkFields](MarkFields.md)
 
 ## Images
 

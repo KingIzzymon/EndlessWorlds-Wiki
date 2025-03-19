@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"d1e63c8e9448b0c8","x":-440,"y":-340,"width":400,"height":400,"type":"file","file":"Topics/Urmag’Tal.md"},
+		{"id":"cab7ed6bcaf0f8d2","x":160,"y":-340,"width":400,"height":400,"type":"file","file":"Topics/Kamag'tal.md"},
+		{"id":"5422c058e5b885f9","x":760,"y":-340,"width":400,"height":400,"type":"file","file":"Topics/Thorn.md"},
+		{"id":"ff9eeb006edc7fb9","x":760,"y":194,"width":400,"height":400,"type":"file","file":"Topics/Velin.md"},
+		{"id":"670b65e2af713625","x":160,"y":194,"width":400,"height":400,"type":"file","file":"Topics/Zem'tal_feg.md"},
+		{"id":"669fcc4fe3242906","x":-440,"y":194,"width":400,"height":400,"type":"file","file":"Topics/Metra.md"},
+		{"id":"2a6ca2569df62345","x":72,"y":-560,"width":577,"height":72,"type":"text","text":"# TITANS AND THEIR TITANS OF LIFE"}
+	],
+	"edges":[
+		{"id":"8c86964c544e15ad","fromNode":"d1e63c8e9448b0c8","fromSide":"right","toNode":"cab7ed6bcaf0f8d2","toSide":"left"},
+		{"id":"307fdefef05efd33","fromNode":"cab7ed6bcaf0f8d2","fromSide":"right","toNode":"5422c058e5b885f9","toSide":"left"},
+		{"id":"4f9ae78431fd62ba","fromNode":"d1e63c8e9448b0c8","fromSide":"bottom","toNode":"669fcc4fe3242906","toSide":"top"},
+		{"id":"98e00ef1d4cfba13","fromNode":"cab7ed6bcaf0f8d2","fromSide":"bottom","toNode":"670b65e2af713625","toSide":"top"},
+		{"id":"ce1e380c52cbfe72","fromNode":"5422c058e5b885f9","fromSide":"bottom","toNode":"ff9eeb006edc7fb9","toSide":"top"}
+	]
+}

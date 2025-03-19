@@ -19,6 +19,8 @@ Found under a log in Nova Terra, Akira joined Thorn's team via spirit contract a
 
 ## Relatives
 
+- Soul Bond: [Thorn](Thorn.md)
+
 ## Images
 
 ![image](../Resources/Attachments/Akira_1.png)

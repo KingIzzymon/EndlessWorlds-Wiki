@@ -1,4 +1,4 @@
-Tags: #character, #novaterra
+Tags: #character #novaterra
 
 ---
 # Baldur

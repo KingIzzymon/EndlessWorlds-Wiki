@@ -1,4 +1,5 @@
 Tags: #novaterra
+
 ---
 # Nova Terra: Classes
 

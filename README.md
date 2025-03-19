@@ -8,15 +8,11 @@
 
 The Endless Worlds are a universe of stories written by the author [Seth Ring](https://sethring.com/about-seth-ring/) that span across several different series, all with their own unique characters and timeline.
 
-## Tags
+## Start here: [INDEX](Topics/_INDEX.md)
 
-#battlemagefarmer #character #dremersthrone #exliansyndrome #irontyrant #novaterra #race #soulcaller #thetower #world
+## How to use the wiki on desktop
 
-## How to use the wiki
-
-This wiki is designed to use a flat file system where each topic resides within its own file and can be found using the tagging system or referencing the other files directly within the repository. If needed, please click "Preview" on the upper left corner of the file to see it with proper text formatting.
-
-For easier use, this project can be cloned to a desktop and opened using the not taking application [Obsidian](https://obsidian.md/) which can display the notes and their links to other notes or tags in a dynamic graph.
+This project can be cloned to a desktop and opened using the note taking application [Obsidian](https://obsidian.md/) which can display the notes and their links to other notes or tags in a dynamic graph. Simply download a copy of the project, unzip it to a folder, then open that folder as a vault from the Obsidian main window.
 
 ![](Resources/Attachments/README_notesgraph20250317.png)
 
@@ -29,6 +25,12 @@ All are welcome to contribute to the wiki using a pull request (PR), however, th
 - Create a PR to start a new topic file or to edit a file.
 - Please keep the scope of a PR short in order to expedite the review and merging process
 - The "Issues" section may be used to discuss any fan theories
+
+### Contribution rules
+
+1) Please use the Obsidian desktop application for the best management of changes to file names, links, etc.
+2) When creating a new topic, add at least one tag to the top of the file and add a link to that file within the proper tag group (alphabetized) in the INDEX document.
+3) Unless the information was directly discovered in one of the books, please site sources of information at the bottom of the topic
 
 ## Author's Links
 - https://sethring.com/

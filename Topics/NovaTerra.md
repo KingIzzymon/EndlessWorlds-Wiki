@@ -1,4 +1,4 @@
-Tags: #world, #novaterra
+Tags: #world #novaterra
 
 ---
 # Nova Terra
@@ -22,7 +22,7 @@ Nova Terra is an open world with a deep history and in which most of the lore is
 
 ## Images
 
-![alt text](../Resources/Attachments/NovaTerra_Map.png)
+![](../Resources/Attachments/NovaTerra_Map.png)
 
 ---
 ## Sources

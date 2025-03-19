@@ -1,7 +1,7 @@
 Tags: #character #exliansyndrome 
 
 ---
-# Mark
+# Mark Fields
 
 A young man who desperately wants to follow in his brother’s footsteps
 
@@ -13,7 +13,7 @@ A young man who desperately wants to follow in his brother’s footsteps
 
 ## Relatives
 
-- Brother: [Joe](Joe.md)
+- Brother: [JoeFields](JoeFields.md)
 - Pet Cat: [Mime](Mime.md)
 
 ## Images

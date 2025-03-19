@@ -1,7 +1,7 @@
 Tags: #character #exliansyndrome 
 
 ---
-# Joe
+# Joe Fields
 
 Mark’s brother, a decorated war hero in the Ranger Division
 
@@ -13,7 +13,7 @@ Mark’s brother, a decorated war hero in the Ranger Division
 
 ## Relatives
 
-- Brother: [Mark](Mark.md)
+- Brother: [MarkFields](MarkFields.md)
 
 ## Images
 

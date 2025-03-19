@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8a50046fe0bb7d41",
+        "id": "6022ac543609fe91",
         "type": "tabs",
         "children": [
           {
-            "id": "a39e1a2b1f61373d",
+            "id": "4f02d2dfa3825903",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -59,23 +59,12 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "0697511ab7f82bab",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "33bbf41e349e2a7e",
@@ -123,7 +112,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -145,7 +134,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -159,46 +149,53 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "map-of-content:Update Map of Content": false,
+      "tag-page-md:Refresh tag page": false
     }
   },
-  "active": "a39e1a2b1f61373d",
+  "active": "4f02d2dfa3825903",
   "lastOpenFiles": [
+    "Topics/Baldur.md",
+    "Topics/Thorn.md",
     "README.md",
+    "Topics/_INDEX.md",
+    "Resources/Canvases/TitanLineage.canvas",
+    "Topics/Metra.md",
+    "Resources/Canvases/ThornsFamilyTree.canvas",
+    "Topics/Urmag’Tal.md",
+    "Topics/JosephMcCallen.md",
+    "Topics/Kamag'tal.md",
+    "Topics/Zem'tal_feg.md",
+    "Topics/Velin.md",
+    "Topics/Nanites.md",
+    "Topics/EVE.md",
+    "Topics/JoeFields.md",
+    "Topics/MarkFields.md",
+    "Topics/Joseph.md",
+    "Topics/NovaTerra.md",
+    "Topics/SoulCaller_Lore.md",
+    "Topics/SoulCaller_GreatSpirits.md",
+    "Topics/Athena.md",
+    "Topics/Angdrin.md",
+    "Topics/Alph.md",
+    "Topics/Akira.md",
+    "Topics/Series_DreamersThrone.md",
+    "Topics/TagPage_novaterra.md",
+    "Topics/Series_Tower.md",
+    "Tags",
     "Resources/Attachments/README_notesgraph20250317.png",
-    "Topics/Sigvald.md",
-    "Topics/Ferdie.md",
-    "Topics/Salliish.md",
-    "Resources/Templates/TEMPLATE_Character.md",
-    "Topics/Endlessworlds_Timeline.md",
-    "Topics/Merrick.md",
-    "Topics/Series_SoulCaller.md",
-    "Topics/Races.md",
     "Resources/Attachments/Races_Exlian_Matron.png",
     "Resources/Attachments/Races_Exlian_Terror.png",
     "Resources/Attachments/Races_Exlian_Warrior.png",
     "Resources/Attachments/Races_Exlian_Drone.png",
-    "Topics/Noah.md",
     "Resources/Attachments/Noah_1.png",
-    "Topics/Mark.md",
-    "Topics/Mime.md",
     "Resources/Attachments/Mime_1.png",
-    "Topics/Sky.md",
     "Resources/Attachments/Sky_1.png",
-    "Topics/Joe.md",
     "Resources/Attachments/Joe_1.png",
-    "Topics/Series_ExlianSyndrome.md",
     "Resources/Attachments/Mark_1.png",
-    "Topics/Series_IronTyrant.md",
-    "Topics/Series_DreamersThrone.md",
-    "Topics/Series_BattleMageFarmer.md",
-    "Topics/Haver.md",
-    "Topics/JohnSutton.md",
-    "Topics/Ben.md",
-    "Topics/Ellie.md",
-    "Topics/Series_Tower.md",
-    "Topics/Series_Titan.md",
-    "Topics/Alph.md",
     "Resources/Canvases",
     "Resources/Attachments",
     "Resources/Templates",

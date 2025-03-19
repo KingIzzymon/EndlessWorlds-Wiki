@@ -1,4 +1,4 @@
-Tags: #series, #thetower
+Tags: #series, #tower
 
 ---
 # The Tower series (aka Nova Terra Sequel)

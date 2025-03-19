@@ -1,4 +1,4 @@
-Tags: #race #novaterra #battlemagefarmer #exliansyndrome 
+Tags: #world #novaterra #battlemagefarmer #exliansyndrome 
 
 ---
 # Races
