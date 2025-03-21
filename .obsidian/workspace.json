@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6022ac543609fe91",
+        "id": "9ca1aba6ffe2c2a9",
         "type": "tabs",
         "children": [
           {
-            "id": "4f02d2dfa3825903",
+            "id": "de306852bec1ce4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "timeline",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,9 +133,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "6cd82dde4a99932d",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -164,17 +160,26 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4f02d2dfa3825903",
+  "active": "de306852bec1ce4c",
   "lastOpenFiles": [
-    "Resources/Attachments/README_demo.gif",
     "Topics/Akira.md",
-    "Topics/Thorn.md",
-    "README.md",
-    "Topics/Baldur.md",
+    "Topics/Alph.md",
     "Topics/_INDEX.md",
+    "Topics/SoulCaller_GreatSpirits.md",
+    "Topics/Series_SoulCaller.md",
+    "Topics/Merrick.md",
+    "Topics/Series_DreamersThrone.md",
+    "Topics/Garrett.md",
+    "Topics/Endlessworlds_Timeline.md",
+    "Topics/Thorn.md",
+    "Topics/Athena.md",
+    "README.md",
+    "Resources/Attachments/README_demo.gif",
+    "Topics/Baldur.md",
     "Resources/Canvases/TitanLineage.canvas",
     "Topics/Metra.md",
     "Resources/Canvases/ThornsFamilyTree.canvas",
@@ -190,13 +195,6 @@
     "Topics/Joseph.md",
     "Topics/NovaTerra.md",
     "Topics/SoulCaller_Lore.md",
-    "Topics/SoulCaller_GreatSpirits.md",
-    "Topics/Athena.md",
-    "Topics/Angdrin.md",
-    "Topics/Alph.md",
-    "Topics/Series_DreamersThrone.md",
-    "Topics/TagPage_novaterra.md",
-    "Topics/Series_Tower.md",
     "Tags",
     "Resources/Attachments/README_notesgraph20250317.png",
     "Resources/Attachments/Races_Exlian_Matron.png",
@@ -207,7 +205,6 @@
     "Resources/Attachments/Mime_1.png",
     "Resources/Attachments/Sky_1.png",
     "Resources/Attachments/Joe_1.png",
-    "Resources/Attachments/Mark_1.png",
     "Resources/Canvases",
     "Resources/Attachments",
     "Resources/Templates",

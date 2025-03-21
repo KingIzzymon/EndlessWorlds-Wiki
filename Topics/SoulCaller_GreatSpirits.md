@@ -9,7 +9,8 @@ The story of "Soul Caller" series follows Merrick and his people who are subject
 - Bear
 - Snake
 - Falcon
-- The Warrior
+- Jaguar
+- (The Warrior?)
 
 ## Appearances
 

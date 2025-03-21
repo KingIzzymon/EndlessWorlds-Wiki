@@ -62,11 +62,34 @@ In addition to this constant in-and-out of hospitals, Xavier occupied himself wi
 
 (left to right) Real-world Xavier, Thorn upon entry to Nova Terra, Thorn upon purchasing armor, Thorn at end of Book 1
 
-## Canvases
+## Diagrams
 
-![](../Resources/Canvases/TitanLineage.canvas)
+```mermaid
+---
+title: Titan Lineage
+---
+flowchart TD
+	id10(Urmag'Tal) --> id9(Kamag'tal) --> id8(Thorn)
+```
 
-![](../Resources/Canvases/ThornsFamilyTree.canvas)
+```mermaid
+---
+title: "Thorn's Family Tree"
+---
+erDiagram
+        "Urmag'Tal" }|--|{ "Metra" : Wife
+        "Urmag'Tal" }|--|{ "Kamag'Tal (Philip Lee)" : Son
+        "Metra" }|--|{ "Kamag'Tal (Philip Lee)" : Son
+        "Kamag'Tal (Philip Lee)" }|--|{ "Zemtal Feg (Evelyn Lee)" : Wife
+        "Kamag'Tal (Philip Lee)" }|--|{ "Thorn (Xavier Lee)" : Son
+        "Zemtal Feg (Evelyn Lee)" }|--|{ "Thorn (Xavier Lee)" : Son
+        "Zemtal Feg (Evelyn Lee)" }|--|{ "Athena (Julia Lee)" : Sister
+        "Athena (Julia Lee)" }|--|{ "Thorn (Xavier Lee)" : Aunt
+        "Thorn (Xavier Lee)" }|--|{ "Velin" : Spouse
+        "Thorn (Xavier Lee)" }|--|{ "Akira" : "Soul Bonded Battle Pet"
+        "Thorn (Xavier Lee)" }|--|{ "Hati" : Avatar
+```
+
 
 ---
 ## Sources
