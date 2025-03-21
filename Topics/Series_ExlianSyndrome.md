@@ -55,6 +55,25 @@ Framed for murder and thrown into the deadly Tomb, forgotten and alone--no maste
 
 For it's kill or be killed in the Tomb, and Mark must face both who he truly is, and who--or what--he's willing to become in order to survive.
 
+## Book 4: TBD
+
+### Released: TBD
+
+### Plot
+
+## Book 5: TBD
+
+### Released: TBD
+
+### Plot
+
+## Book 6: TBD
+
+### Released: TBD
+
+### Plot
+
 ---
 ## Sources
 - https://sethring.com/book-series/the-exlian-syndrome/
+- https://paulsemel.com/exclusive-interview-advent-author-seth-ring/
