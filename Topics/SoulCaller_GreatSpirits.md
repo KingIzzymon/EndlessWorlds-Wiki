@@ -5,12 +5,12 @@ Tags: #soulcaller
 
 The story of "Soul Caller" series follows Merrick and his people who are subjects to the five Great Spirits of the land:
 
+- Snake (Emerald)
+- Jaguar (Shadow)
+- Falcon
 - Wolf
 - Bear
-- Snake
-- Falcon
-- Jaguar
-- (The Warrior?)
+- (The Warrior? True great spirit?)
 
 ## Appearances
 
