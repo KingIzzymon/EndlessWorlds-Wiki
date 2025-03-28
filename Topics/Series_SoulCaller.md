@@ -39,6 +39,13 @@ Abandoned to die in the wilderness, Merrick refused to give in. Now, he’s grow
 
 Yet he has only just begun to scratch the surface of how deeply his world has been infected, and after alerting the Empire to the danger, he planned to join the World Guard in an attempt to break the scaled beast’s hold on the mountain range.
 
+## Book 3: TBD
+
+### Released: TBD
+
+### Plot
+
+
 ---
 ## Sources
 - https://sethring.com/book-series/soul-caller-series/
