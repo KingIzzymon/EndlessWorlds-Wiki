@@ -1,5 +1,8 @@
-Tags: #series #irontyrant  
-
+---
+Title:  "Series: Iron Tyrant"
+Comment:  "An overview of the series and a brief description of each book."
+tags:
+  - "#series #irontyrant"
 ---
 # Iron Tyrant
 
@@ -39,6 +42,16 @@ Having passed his initial assessment, Mateo has been assigned to learn the craft
 As Mateo’s personal power continues to grow he’ll learn that it takes a lot more than strength to navigate the complex web of intrigue between nations. Yet no matter how adept he becomes, it is impossible to avoid being drawn into the maelstrom that surrounds the ambitious imperial family, leaving Mateo with no choice but to commit himself to supporting the young Fifth Prince.
 
 Together with his friends and his spirit bond, Corvus, Mateo will continue to uncover the truth about the world, the mysterious Solomon order, and the treacherous path his master planned for him.
+
+## Book 3: Healing Skies
+
+![](../Resources/Attachments/BookCover_IronTyrant03_HealingSkies.jpg)
+
+### Released: May 14, 2025
+
+### Plot
+
+#tbd
 
 ---
 ## Sources
