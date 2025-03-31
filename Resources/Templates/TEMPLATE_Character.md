@@ -1,5 +1,7 @@
-Tags: 
-
+---
+Title: ""
+Comment: ""
+tags: ""
 ---
 # CharacterTemplateTitle
 
