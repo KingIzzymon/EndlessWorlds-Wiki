@@ -4,7 +4,7 @@
   "useMarkdownLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "Topics",
-  "attachmentFolderPath": "Resources/Attachments",
+  "attachmentFolderPath": "Attachments",
   "livePreview": false,
   "defaultViewMode": "preview",
   "propertiesInDocument": "hidden",

@@ -1,5 +1,8 @@
 [
-  "dashboard-navigator",
   "table-editor-obsidian",
-  "mermaid-tools"
+  "mermaid-tools",
+  "dataview",
+  "templater-obsidian",
+  "obsidian-excalidraw-plugin",
+  "frontmatter-modified-date"
 ]
