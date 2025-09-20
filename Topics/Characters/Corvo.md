@@ -15,7 +15,7 @@ Corvo has been playing since soon after the game's release, and it was not long 
 ## Appearances
 
 - Titan (Book #3): "Nova Terra: Kingbreaker"
-- ...
+- <details><summary>SPOILER: Battle Mage Farmer: Book 9, Culmination</summary>This is the hidden spoiler content.</details>
 
 ## Physical Description
 
