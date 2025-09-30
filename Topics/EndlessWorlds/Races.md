@@ -42,6 +42,8 @@ Matrons control the minds of other Exlian to coordinate attacks on humans.
 
 ## Godbeast
 
+- https://sethring.com/book-series/the-titan-series/
+
 ---
 ## Sources
 - 
